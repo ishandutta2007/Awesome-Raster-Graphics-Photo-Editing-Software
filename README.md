@@ -2,7 +2,7 @@
 
 # Awesome-Raster-Graphics-Photo-Editing-Software
 
-# Top Raster Graphics & Photo Editing Software Ecosystem
+## Top Raster Graphics & Photo Editing Software Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Layer-Based Compositing, Non-Destructive Editing & GPU-Accelerated Workflows*  
