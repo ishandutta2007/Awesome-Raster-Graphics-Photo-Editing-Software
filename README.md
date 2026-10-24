@@ -111,27 +111,27 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 
 *Sorted descending by GitHub stargazers count:*
 
-| 🏅 Rank | 📦 Project & Repository | 🌟 Star Badge | 📜 License | 🛠️ Core Stack | 🎯 Primary Focus |
+| 🏅 Rank | 📦 Project & Repository | 🌟 Stars_Badge | 📜 License | 🛠️ Core Stack | 🎯 Primary Focus |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| **1** | **[PhotoCraft](https://github.com/storytold/photocraft)** | [![GitHub stars](https://img.shields.io/github/stars/storytold/photocraft?style=social&color=white)](https://github.com/storytold/photocraft/stargazers) | MIT / Apache-2.0 | Rust, WebGPU, Vulkan, Metal | High-performance Rust-native Photoshop alternative with 134/135 PSD roundtrip fidelity |
-| **2** | **[Aseprite](https://github.com/aseprite/aseprite)** | [![GitHub stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers) | EULA / Source-Available | C++, Skia | Animated sprite editor & pixel art tool with timeline, onion skinning & palette shading |
-| **3** | **[Darktable](https://github.com/darktable-org/darktable)** | [![GitHub stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers) | GPL-3.0 | C, OpenCL, GTK3 | Non-destructive RAW photo developer, virtual lighttable, and colorimetric image pipeline |
-| **4** | **[RapidRAW](https://github.com/CyberTimon/RapidRAW)** | [![GitHub stars](https://img.shields.io/github/stars/CyberTimon/RapidRAW?style=social&color=white)](https://github.com/CyberTimon/RapidRAW/stargazers) | GPL-3.0 | C++, GPU Shaders, AI NIND | Real-time GPU-accelerated RAW editor with AI denoising, vectorscopes & modern export formats |
-| **5** | **[Krita](https://github.com/KDE/krita)** | [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) | GPL-3.0 | C++, Qt5/Qt6, OpenGL | World-class digital painting and raster illustration suite with brush stabilizers & wrap-around mode |
-| **6** | **[PixiEditor](https://github.com/PixiEditor/PixiEditor)** | [![GitHub stars](https://img.shields.io/github/stars/PixiEditor/PixiEditor?style=social&color=white)](https://github.com/PixiEditor/PixiEditor/stargazers) | MIT | C#, .NET, Avalonia UI | Lightweight, modern pixel art and raster graphics editor with multi-layer blend modes |
-| **7** | **[GIMP](https://github.com/GNOME/gimp)** | [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) | GPL-3.0 | C, GEGL, GTK3, Python 3 | The reference FOSS image manipulation program featuring non-destructive link & vector layers |
-| **8** | **[RawTherapee](https://github.com/RawTherapee/RawTherapee)** | [![GitHub stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers) | GPL-3.0 | C++, GTK3, OpenMP | High-precision 32-bit floating-point RAW processing engine featuring CIECAM02 color modeling |
-| **9** | **[Pinta](https://github.com/PintaProject/Pinta)** | [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers) | MIT | C#, .NET, GTK3 | Simple, responsive raster drawing and photo editing modeled after Paint.NET |
-| **10** | **[miniPaint](https://github.com/viliusle/miniPaint)** | [![GitHub stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers) | MIT | JavaScript, HTML5 Canvas | Zero-installation, fully client-side open-source browser photo editor with layers & filters |
-| **11** | **[MyPaint](https://github.com/mypaint/mypaint)** | [![GitHub stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers) | GPL-2.0 | Python, C++, GTK3 | Distraction-free raster painting tool with an infinite canvas and dynamic brush physics |
-| **12** | **[PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** | [![GitHub stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers) | BSD-2-Clause | Visual Basic 6, C DLLs | 100% portable Windows photo editor with 200+ pro tools, macro recording & zero dependencies |
+| **1** | **[PhotoCraft](https://github.com/storytold/photocraft)** | [![GitHub_Stars](https://img.shields.io/github/stars/storytold/photocraft?style=social&color=white)](https://github.com/storytold/photocraft/stargazers) | MIT / Apache-2.0 | Rust, WebGPU, Vulkan, Metal | High-performance Rust-native Photoshop alternative with 134/135 PSD roundtrip fidelity |
+| **2** | **[Aseprite](https://github.com/aseprite/aseprite)** | [![GitHub_Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers) | EULA / Source-Available | C++, Skia | Animated sprite editor & pixel art tool with timeline, onion skinning & palette shading |
+| **3** | **[Darktable](https://github.com/darktable-org/darktable)** | [![GitHub_Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers) | GPL-3.0 | C, OpenCL, GTK3 | Non-destructive RAW photo developer, virtual lighttable, and colorimetric image pipeline |
+| **4** | **[RapidRAW](https://github.com/CyberTimon/RapidRAW)** | [![GitHub_Stars](https://img.shields.io/github/stars/CyberTimon/RapidRAW?style=social&color=white)](https://github.com/CyberTimon/RapidRAW/stargazers) | GPL-3.0 | C++, GPU Shaders, AI NIND | Real-time GPU-accelerated RAW editor with AI denoising, vectorscopes & modern export formats |
+| **5** | **[Krita](https://github.com/KDE/krita)** | [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) | GPL-3.0 | C++, Qt5/Qt6, OpenGL | World-class digital painting and raster illustration suite with brush stabilizers & wrap-around mode |
+| **6** | **[PixiEditor](https://github.com/PixiEditor/PixiEditor)** | [![GitHub_Stars](https://img.shields.io/github/stars/PixiEditor/PixiEditor?style=social&color=white)](https://github.com/PixiEditor/PixiEditor/stargazers) | MIT | C#, .NET, Avalonia UI | Lightweight, modern pixel art and raster graphics editor with multi-layer blend modes |
+| **7** | **[GIMP](https://github.com/GNOME/gimp)** | [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) | GPL-3.0 | C, GEGL, GTK3, Python 3 | The reference FOSS image manipulation program featuring non-destructive link & vector layers |
+| **8** | **[RawTherapee](https://github.com/RawTherapee/RawTherapee)** | [![GitHub_Stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers) | GPL-3.0 | C++, GTK3, OpenMP | High-precision 32-bit floating-point RAW processing engine featuring CIECAM02 color modeling |
+| **9** | **[Pinta](https://github.com/PintaProject/Pinta)** | [![GitHub_Stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers) | MIT | C#, .NET, GTK3 | Simple, responsive raster drawing and photo editing modeled after Paint.NET |
+| **10** | **[miniPaint](https://github.com/viliusle/miniPaint)** | [![GitHub_Stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers) | MIT | JavaScript, HTML5 Canvas | Zero-installation, fully client-side open-source browser photo editor with layers & filters |
+| **11** | **[MyPaint](https://github.com/mypaint/mypaint)** | [![GitHub_Stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers) | GPL-2.0 | Python, C++, GTK3 | Distraction-free raster painting tool with an infinite canvas and dynamic brush physics |
+| **12** | **[PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** | [![GitHub_Stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers) | BSD-2-Clause | Visual Basic 6, C DLLs | 100% portable Windows photo editor with 200+ pro tools, macro recording & zero dependencies |
 
 ---
 
 ### 🔬 Deep Dive into Open-Source Solutions
 
 #### 1. [PhotoCraft](https://github.com/storytold/photocraft) — *The Rust-Native Photoshop Contender*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/storytold/photocraft?style=social&color=white)](https://github.com/storytold/photocraft/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/storytold/photocraft?style=social&color=white)](https://github.com/storytold/photocraft/stargazers)
 - 🚀 **Architecture**: Written from scratch in memory-safe Rust with multi-backend hardware rendering (Vulkan, Metal, DirectX 12, WebGPU).
 - ✨ **Key Features**:
   - Unprecedented PSD/PSB roundtrip fidelity (134 of 135 benchmark test suites maintaining zero delta visual parity).
@@ -140,7 +140,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Early adopters seeking a blazing-fast, crash-resilient native Linux/macOS/Windows alternative to Adobe Photoshop.
 
 #### 2. [Aseprite](https://github.com/aseprite/aseprite) — *The Standard in Pixel Art & Sprite Animation*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers)
 - 🚀 **Architecture**: High-performance C++ rendering pipeline powered by Google Skia.
 - ✨ **Key Features**:
   - Frame-by-frame raster timeline with real-time onion skinning and animation tagging.
@@ -149,7 +149,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Indie game developers, sprite animators, pixel artists, and game jam participants.
 
 #### 3. [Darktable](https://github.com/darktable-org/darktable) — *Virtual Lighttable & Non-Destructive Darkroom*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)
 - 🚀 **Architecture**: OpenCL hardware acceleration with modular 32-bit floating-point processing pipes.
 - ✨ **Key Features**:
   - Non-destructive parametric and drawn masks with scene-referred color grading workflows (Filmic RGB / AgX).
@@ -158,7 +158,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Professional photographers seeking a full Lightroom alternative on Linux, macOS, and Windows.
 
 #### 4. [RapidRAW](https://github.com/CyberTimon/RapidRAW) — *Next-Gen GPU-Accelerated RAW Processor*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/CyberTimon/RapidRAW?style=social&color=white)](https://github.com/CyberTimon/RapidRAW/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/CyberTimon/RapidRAW?style=social&color=white)](https://github.com/CyberTimon/RapidRAW/stargazers)
 - 🚀 **Architecture**: Direct GPU shader compute pipeline delivering instant viewport feedback.
 - ✨ **Key Features**:
   - Integrated AI NIND (Neural Image Noise Denoising) and subject segmentation models.
@@ -167,7 +167,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Tech-forward photographers wanting instantaneous response times on modern GPU hardware.
 
 #### 5. [Krita](https://github.com/KDE/krita) — *The Creative Painting & Concept Art Workhorse*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)
 - 🚀 **Architecture**: Qt-based UI with OpenGL canvas acceleration and multi-core brush computation.
 - ✨ **Key Features**:
   - Industry-leading brush engine with 9 distinct brush engines, smoothing stabilizers, and dynamic resource management.
@@ -176,7 +176,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Concept artists, digital painters, illustrators, comic/manga creators, and texture painters.
 
 #### 6. [PixiEditor](https://github.com/PixiEditor/PixiEditor) — *Modern & Fluid Pixel Art Studio*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/PixiEditor/PixiEditor?style=social&color=white)](https://github.com/PixiEditor/PixiEditor/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/PixiEditor/PixiEditor?style=social&color=white)](https://github.com/PixiEditor/PixiEditor/stargazers)
 - 🚀 **Architecture**: Built on C#, .NET, and Avalonia UI for clean cross-platform performance.
 - ✨ **Key Features**:
   - Fluid canvas navigation, pixel-perfect pencil tool, line & shape rasterizers.
@@ -185,7 +185,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Digital creators wanting a sleek, modern desktop pixel art experience without legacy UI clutter.
 
 #### 7. [GIMP (GNU Image Manipulation Program)](https://github.com/GNOME/gimp) — *The Open-Source Vanguard*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)
 - 🚀 **Architecture**: Built on the Generic Graphics Library (GEGL) graph processing engine with GTK3.
 - ✨ **Key Features**:
   - **Non-Destructive Link Layers**: Automatically updates compositions when external linked raster assets are modified on disk.
@@ -194,7 +194,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Graphic designers, students, web designers, and GNU/Linux power users requiring a battle-tested raster suite.
 
 #### 8. [RawTherapee](https://github.com/RawTherapee/RawTherapee) — *Parametric Color Science RAW Engine*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers)
 - 🚀 **Architecture**: Multi-threaded 32-bit floating-point processing pipeline using OpenMP.
 - ✨ **Key Features**:
   - High-end demosaicing algorithms (AMaZE, RCD, DCB, LMMSE) for maximum sensor detail extraction.
@@ -203,7 +203,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Scientific, astro, and landscape photographers desiring mathematical color purity and fine grain control.
 
 #### 9. [Pinta](https://github.com/PintaProject/Pinta) — *Simple, Responsive Painting & Retouching*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)
 - 🚀 **Architecture**: Clean C# codebase utilizing GTK3 for cross-platform Linux, Mac, and Windows consistency.
 - ✨ **Key Features**:
   - Straightforward Paint.NET-inspired layout with full layer composition capabilities.
@@ -212,7 +212,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Casual editors, rapid screenshot annotations, and everyday photo crop/retouch tasks.
 
 #### 10. [miniPaint](https://github.com/viliusle/miniPaint) — *Zero-Install HTML5 Client-Side Canvas Editor*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/viliusle/miniPaint?style=social&color=white)](https://github.com/viliusle/miniPaint/stargazers)
 - 🚀 **Architecture**: Pure client-side JavaScript leveraging HTML5 2D Canvas APIs with zero server requirements.
 - ✨ **Key Features**:
   - Multi-layer support with alpha blending, color adjustments, and image warping filters.
@@ -221,7 +221,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Quick browser-based edits, embedded web apps, and privacy-conscious users on restricted networks.
 
 #### 11. [MyPaint](https://github.com/mypaint/mypaint) — *Infinite Canvas for Tablet Illustrators*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/mypaint/mypaint?style=social&color=white)](https://github.com/mypaint/mypaint/stargazers)
 - 🚀 **Architecture**: Modular `libmypaint` brush engine in C paired with Python GTK user interface.
 - ✨ **Key Features**:
   - Frictionless, borderless infinite canvas that expands dynamically as you sketch.
@@ -230,7 +230,7 @@ Explore the finest open-source raster graphics engines, pixel art editors, and R
 - 🎯 **Best For**: Expressive concept sketching, rapid ideation, and digital artists using drawing tablets.
 
 #### 12. [PhotoDemon](https://github.com/tannerhelland/PhotoDemon) — *Ultra-Portable Windows Powerhouse*
-- 🌟 **Star Badge**: [![GitHub stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers)
+- 🌟 **Stars_Badge**: [![GitHub_Stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers)
 - 🚀 **Architecture**: Highly optimized native Windows binary with zero external runtime or .NET dependencies.
 - ✨ **Key Features**:
   - Over 200 professional-grade tools packed into a portable executable under 30 MB.
@@ -290,7 +290,7 @@ Contributions from the global creative and developer community are warmly apprec
    ```bash
    git checkout -b feature/add-new-raster-tool
    ```
-3. 📝 **Add Your Entry**: Ensure SaaS tools include explicit starting prices, free tier limits, and valuation. Open-source entries must feature an official GitHub star badge linking to `/stargazers`.
+3. 📝 **Add Your Entry**: Ensure SaaS tools include explicit starting prices, free tier limits, and valuation. Open-source entries must feature an official GitHub Stars_Badge linking to `/stargazers`.
 4. ✅ **Verify Formatting**: Keep table markdown aligned and URLs functional.
 5. 🚀 **Submit a Pull Request**: Detail the rationale for your addition and verify all links.
 
